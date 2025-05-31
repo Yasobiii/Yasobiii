@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/hasthikakalhara" target="blank"><img src="https://img.shields.io/twitter/follow/hasthikakalhara?logo=twitter&style=for-the-badge" alt="hasthikakalhara" /></a> </p>
 
-- 🔭 I’m currently working on [PomoFi](https://github.com/Yasobiii/JavaPad)
+- 🔭 I’m currently working on [JavaPad](https://github.com/Yasobiii/JavaPad)
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
